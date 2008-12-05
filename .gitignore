@@ -1,0 +1,15 @@
+log/*.log
+tmp/**/*
+doc/a*
+doc/spec.html
+coverage/*
+db/*.sqlite*
+.DS_Store
+*.log
+tags
+tmtags
+test/fixtures
+agr*.tar.gz
+tmp/*
+*.orig
+*.swp
